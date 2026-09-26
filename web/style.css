@@ -1,0 +1,89 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 20-Sept-2024, 12:09:18 am
+    Author     : hp
+*/
+
+        body
+        {
+            background-image:url('images/contrast-in-dark-interior-designs.jpg');
+                background-repeat: no-repeat;
+                background-size:100%;
+        }
+        .tabtheme{
+            background-color:rgba(255,255,255,0.6);
+            height: 70px;
+            text-transform: uppercase;
+            font-size:20px;
+            text-align: center;
+            font-family: arial;
+            box-shadow: 3px 3px 3px black;
+        }
+        .image{
+/*            margin-left: 700px;
+            margin-top: 100px;*/
+            box-shadow: 10px 10px 10px black;
+            <!--opacity: 0.6;-->
+        }
+
+        
+        .formtheme
+        {
+            margin-left: 350px;
+            margin-top:155; 
+            font-family: arial;
+            font-size: 18px;
+            background-color:rgba(166, 125, 95,0.9);
+            box-shadow: 5px 5px 5px black;
+        }
+        .texttheme
+        {
+            width: 270px;
+            height: 30px;
+            border:inset;
+            <!--border-radius:30px-->
+            /* box-shadow:1px 1px 1px black*/
+        }
+        .divtheme
+        {
+            width:100%;
+            height: 800px;
+            background-image:url('images/4876507.jpg');
+            background-repeat: no-repeat;
+            background-size:100%;
+            background-position: 1px;
+            margin-top:350px;
+            
+        }
+        .para{
+            text-align: justify;
+            color:black;
+            font-size:20px;
+            
+          
+        }
+        .secondtab{
+            margin-top: 700px;
+        }
+        a
+        {
+            color: black;
+            text-decoration: none;
+        }
+        .btntheme
+        {
+            background-color:black;
+            color:white;
+            width:100px;
+            height: 30px;
+            font-family: arial;
+            font-size:15px;
+            text-transform: uppercase; 
+        }
+        .parastu
+        {
+            margin-right: 30px;
+        }
